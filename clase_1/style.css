@@ -1,0 +1,44 @@
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: chartreuse;
+}
+
+h3{
+    color: darkmagenta;
+}
+
+p{
+    color: cyan;
+    text-align: center;
+}
+
+img{
+    width: 100 px;
+}
+
+section{
+    color: darkred;
+}
+
+#datos de la empresa{
+    
+}
+
+.frontend{
+    background-color: blueviolet;
+}
+
+#destacado{
+    border-style: solid;
+    border-color: black;
+}
+
+#datosdelaempresa p{
+    color: beige;
+    background-color: aquamarine;
+}
+
+
